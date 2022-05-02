@@ -17,6 +17,7 @@ Awesome list of DataOps open source software, online services, courses and use c
 ### ETL tools
 * [Apache Kafka](https://kafka.apache.org/) - a distributed streaming platform.
 * [Apache Nifi](https://nifi.apache.org/) - an easy to use, powerful, and reliable system to process and distribute data.
+* [Squirrel](https://github.com/merantix-momentum/squirrel-core) - a Python library for large-scale data loading, transforming and sharing.
 
 
 ## Commercial products and services
